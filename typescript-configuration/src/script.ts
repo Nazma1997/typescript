@@ -15,3 +15,12 @@ const explicit = (a: number, b: number) => {
 }
 
 console.log(explicit(2,4));
+
+// array declaration 
+//  a | b in this line | this notation called union
+
+let a: (string | number)[] = []
+
+//object
+
+let c : object

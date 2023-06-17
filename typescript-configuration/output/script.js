@@ -11,3 +11,8 @@ const explicit = (a, b) => {
     return a * b;
 };
 console.log(explicit(2, 4));
+// array declaration 
+//  a | b in this line | this notation called union
+let a = [];
+//object
+let c;

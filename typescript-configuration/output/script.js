@@ -16,3 +16,5 @@ console.log(explicit(2, 4));
 let a = [];
 //object
 let c;
+// dynamic type or any type 
+let w;

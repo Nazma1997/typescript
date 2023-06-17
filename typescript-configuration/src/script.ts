@@ -24,3 +24,7 @@ let a: (string | number)[] = []
 //object
 
 let c : object
+
+// dynamic type or any type 
+
+let w: any
